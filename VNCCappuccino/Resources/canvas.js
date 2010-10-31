@@ -1,0 +1,1 @@
+../noVNC/include/canvas.js
